@@ -1,0 +1,57 @@
+# Portfólio – Maria Clara Pontes
+
+Site de portfólio desenvolvido para a disciplina de Desenvolvimento Web, usando **HTML, CSS e JavaScript**.
+
+## Sobre mim
+
+Sou **Maria Clara Pontes (ela/dela)**, estudante de **Ciência da Computação** na Cesar School.  
+Tenho interesse em:
+
+- Cibersegurança  
+- Ciência de dados  
+- Computação gráfica  
+
+Este portfólio resume meus projetos, links de estudo e formas de contato.
+
+## Projeto principal – Simulador de ESG
+
+**Título:** Simulador de ESG – Crescendo na empresa aplicando práticas ESG  
+
+Jogo didático que simula o ambiente da empresa fictícia **RubberDucks Inc.**.  
+Cada jogadora/jogador assume um personagem e toma decisões ligadas a práticas **ESG**, recebendo pontos ou penalidades conforme o impacto das escolhas no ambiente corporativo.
+
+O sistema usa **Arduino**:
+
+- Um Arduino representa a empresa, controlando eventos e pontuações.
+- Outro Arduino funciona como controle coletivo dos jogadores, exibindo quem joga, opções de ação e pontos em cada critério.
+
+**Pontos trabalhados no projeto:**
+
+- Cultura corporativa e ética
+- Comunicação, criatividade, proatividade e técnica
+- Trabalho em equipe
+
+**Tecnologias:**
+
+- Arduino, C/C++
+- Prototipagem eletrônica
+- Git e GitHub
+
+> Quando o repositório do simulador estiver público, o link poderá ser adicionado aqui e na página `projetos.html`.
+
+## Estrutura do site
+
+- `index.html` – página inicial com apresentação, áreas de interesse, skills e contato.  
+- `projetos.html` – descrição do **Simulador de ESG** e de outro projeto colaborativo.  
+- `estudos.html` – links de estudo para web, cibersegurança e ciência de dados.  
+- `style.css` – layout responsivo usando **Flexbox** e **Grid**.  
+- `script.js` – botão para alternar entre tema claro e escuro (recurso em JavaScript).  
+
+## Como executar
+
+1. Clone este repositório ou faça o download dos arquivos.  
+2. Abra o arquivo `index.html` em qualquer navegador moderno.
+
+## Publicação
+
+Recomendado para uso com **GitHub Pages**.
