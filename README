@@ -1,57 +1,54 @@
-# Portfólio – Maria Clara Pontes
+# Oie, meu nome é **Maria Clara Pontes**   
 
-Site de portfólio desenvolvido para a disciplina de Desenvolvimento Web, usando **HTML, CSS e JavaScript**.
+Estudante de Ciência da Computação na CESAR School • Desenvolvimento  
 
-## Sobre mim
+---
 
-Sou **Maria Clara Pontes (ela/dela)**, estudante de **Ciência da Computação** na Cesar School.  
-Tenho interesse em:
+##  Áreas de interesse
 
-- Cibersegurança  
-- Ciência de dados  
-- Computação gráfica  
+-  **cibersegurança**
+-  **ciência de dados**
+-  **desenvolvimento** (C, Python e JavaScript)
 
-Este portfólio resume meus projetos, links de estudo e formas de contato.
 
-## Projeto principal – Simulador de ESG
+##  Skills
 
-**Título:** Simulador de ESG – Crescendo na empresa aplicando práticas ESG  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+</p>
 
-Jogo didático que simula o ambiente da empresa fictícia **RubberDucks Inc.**.  
-Cada jogadora/jogador assume um personagem e toma decisões ligadas a práticas **ESG**, recebendo pontos ou penalidades conforme o impacto das escolhas no ambiente corporativo.
 
-O sistema usa **Arduino**:
 
-- Um Arduino representa a empresa, controlando eventos e pontuações.
-- Outro Arduino funciona como controle coletivo dos jogadores, exibindo quem joga, opções de ação e pontos em cada critério.
+## Certificado
 
-**Pontos trabalhados no projeto:**
+### **JavaScript Essentials 1 – Cisco / OpenEDG**  
+ Certificado oficial:  
+https://www.credly.com/badges/2ca9edd8-abec-497b-b5c8-c482c0b28edb/public_url
 
-- Cultura corporativa e ética
-- Comunicação, criatividade, proatividade e técnica
-- Trabalho em equipe
 
-**Tecnologias:**
 
-- Arduino, C/C++
-- Prototipagem eletrônica
-- Git e GitHub
+## Projeto atual
 
-> Quando o repositório do simulador estiver público, o link poderá ser adicionado aqui e na página `projetos.html`.
+### **Simulador de ESG – RubberDucks Inc.**
+Projeto físico + Arduino que gamifica decisões ESG dentro de uma empresa fictícia.
 
-## Estrutura do site
+ Site oficial do projeto:  
+https://sites.google.com/cesar.school/grp8/home
 
-- `index.html` – página inicial com apresentação, áreas de interesse, skills e contato.  
-- `projetos.html` – descrição do **Simulador de ESG** e de outro projeto colaborativo.  
-- `estudos.html` – links de estudo para web, cibersegurança e ciência de dados.  
-- `style.css` – layout responsivo usando **Flexbox** e **Grid**.  
-- `script.js` – botão para alternar entre tema claro e escuro (recurso em JavaScript).  
+ Repositório do projeto no GitHub:  
+https://github.com/kev-karan/Duck-Building
 
-## Como executar
+---
 
-1. Clone este repositório ou faça o download dos arquivos.  
-2. Abra o arquivo `index.html` em qualquer navegador moderno.
+## Contato
 
-## Publicação
+-  **e-mail:** clarapontes2502@gmail.com  
+-  **LinkedIn:** https://www.linkedin.com/in/maria-clara-pontes-972684393  
+-  **GitHub:** https://github.com/clarinhapontess  
+-  **Slack:** @Clara Pontes  
 
-Recomendado para uso com **GitHub Pages**.
